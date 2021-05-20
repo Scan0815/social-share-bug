@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "social-share-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
